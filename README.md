@@ -1,5 +1,6 @@
 # ChoiceHive
-## Project Software Engineer
+## Software Engineer Project
+ChoiceHive is a website designed to compare product's best prices across multiple e-commerce platforms.
 ### Kelompok 13
 Anggota:
 - 2501973565-Ray Marvin
